@@ -68,7 +68,3 @@ In the project directory, you can run:
 - `npm run dev` / `yarn dev`: Starts the development server.
 - `npm run build` / `yarn build`: Builds the project for production.
 - `npm start` / `yarn start`: Runs the compiled app in production mode.
-
----
-
-This version improves readability by organizing the sections, adding icons to make the document visually appealing, and including steps for installing dependencies and deploying the project.
